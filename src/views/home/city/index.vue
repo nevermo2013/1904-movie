@@ -13,8 +13,7 @@
 </template>
 
 <script>
-import { constants } from "crypto";
-import func from "../../../../vue-temp/vue-editor-bridge";
+
 export default {
   name: "City",
 
