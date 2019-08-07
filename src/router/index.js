@@ -39,9 +39,9 @@ export default new Router({
         name: 'main',
         component: () => import(/* webpackChunkName: "main" */ '../views/main/index.vue')
     },
-    // {
-    //    path: '*',
-    //    redirect: '/home'
-    // }
+    {
+       path: '*',   // 除了已经被配置过的路由 其余全部重定向到 /home
+       redirect: '/home'
+    }
   ]
 })

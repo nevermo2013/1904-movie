@@ -23,7 +23,7 @@
 + Footer
 
 ## better-scroller
-
++ https://better-scroll.github.io/docs/zh-CN/guide/#betterscroll-%E6%98%AF%E4%BB%80%E4%B9%88
 ## 地理定位
 
 
