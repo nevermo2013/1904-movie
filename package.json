@@ -10,7 +10,7 @@
     "@better-scroll/core": "^2.0.0-alpha.20",
     "core-js": "^2.6.5",
     "lib-flexible": "^0.3.2",
-    "semver": "^6.3.0",
+    "semver": "^7.5.2",
     "vue": "^2.6.10",
     "vue-awesome-swiper": "^3.1.3",
     "vue-router": "^3.0.3",
